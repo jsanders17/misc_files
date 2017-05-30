@@ -1,7 +1,8 @@
 #!/bin/bash
 #
 # Check Point automatic MDS backup script with upload to SSH(SCP)/FTP server
-# Author: Martin Cmelik (cm3l1k1) 11.1.2010 (updated coding convention 5.1.2015)
+# Original Author: Martin Cmelik (cm3l1k1) 11.1.2010 (updated coding convention 5.1.2015)
+# Additions/Modifications: Jonathan Sanders (j@silvershade.net) 05.30.17
 # License: GNU General Public License version 3
 #
 # THE SCRIPT IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND,
